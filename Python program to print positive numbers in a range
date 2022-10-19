@@ -14,5 +14,7 @@ while(num < len(list1)):
 	# increment num
 	num += 1
 	
-	
+
+
+
 	
